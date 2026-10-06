@@ -1,0 +1,303 @@
+-3.04
+-7.46
+5.1
+-16.12
+38.63
+26.17
+38.63
+5.1
+15.56
+-37.82
+26.81
+-37.82
+26.81
+17.67
+70.57
+-5.47
+5.45
+-50.32
+-6.95
+-27.16
+47.37
+-16.13
+6.32
+-5.56
+27.88
+
+Initial stack is
+A=-7.46 (N1)
+B=-7.46 (N2)
+C=-7.46 (N3)
+
+ Current N=3
+Cycle  full detected abs(dBC)>=abs(dAB): 21.22>-12.559999999999999 Ampl=-12.559999999999999=12.559999999999999 med val = -1.1800000000000002=-1.1800000000000002
+IniDaata cur N = 4 ciur ini data val = 38.63
+Value 38.63 N 4 is added from ini data to work stack
+Now stack is
+A=-7.46 (N1)
+B=-7.46 (N3)
+C=-7.46 (N4)
+
+ Current N=4
+Cycle  full detected abs(dBC)>=abs(dAB): -54.75>8.66 Ampl=8.66=8.66 med val = -11.790000000000001=-11.790000000000001
+IniDaata cur N = 5 ciur ini data val = 26.17
+Value 26.17 N 5 is added from ini data to work stack
+Now stack is
+A=-7.46 (N1)
+B=-7.46 (N4)
+C=-7.46 (N5)
+
+ Current N=5
+It is not full cycle
+IniDaata cur N = 6 ciur ini data val = 38.63
+Value 38.63 N 6 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+A=38.63 (N4)
+B=38.63 (N4)
+C=38.63 (N6)
+
+ Current N=6
+Cycle  full detected abs(dBC)>=abs(dAB): 0.0>0.0 Ampl=0.0=0.0 med val = 38.63=38.63
+IniDaata cur N = 7 ciur ini data val = 5.1
+Value 5.1 N 7 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+A=38.63 (N4)
+B=38.63 (N6)
+C=38.63 (N7)
+
+ Current N=7
+Cycle  full detected abs(dBC)>=abs(dAB): 33.53>0.0 Ampl=0.0=0.0 med val = 38.63=38.63
+IniDaata cur N = 8 ciur ini data val = 15.56
+Value 15.56 N 8 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+A=38.63 (N4)
+B=38.63 (N7)
+C=38.63 (N8)
+
+ Current N=8
+It is not full cycle
+IniDaata cur N = 9 ciur ini data val = -37.82
+Value -37.82 N 9 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+A=5.1 (N7)
+B=5.1 (N7)
+C=5.1 (N9)
+
+ Current N=9
+Cycle  full detected abs(dBC)>=abs(dAB): 42.92>0.0 Ampl=0.0=0.0 med val = 5.1=5.1
+IniDaata cur N = 10 ciur ini data val = 26.81
+Value 26.81 N 10 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+A=5.1 (N7)
+B=5.1 (N9)
+C=5.1 (N10)
+
+ Current N=10
+Cycle  full detected abs(dBC)>=abs(dAB): -64.63>42.92 Ampl=42.92=42.92 med val = -16.36=-16.36
+IniDaata cur N = 11 ciur ini data val = -37.82
+Value -37.82 N 11 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+A=5.1 (N7)
+B=5.1 (N10)
+C=5.1 (N11)
+
+ Current N=11
+Cycle  full detected abs(dBC)>=abs(dAB): 64.63>-21.71 Ampl=-21.71=21.71 med val = 15.954999999999998=15.954999999999998
+IniDaata cur N = 12 ciur ini data val = 26.81
+Value 26.81 N 12 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+A=5.1 (N7)
+B=5.1 (N11)
+C=5.1 (N12)
+
+ Current N=12
+Cycle  full detected abs(dBC)>=abs(dAB): -64.63>42.92 Ampl=42.92=42.92 med val = -16.36=-16.36
+IniDaata cur N = 13 ciur ini data val = 17.67
+Value 17.67 N 13 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+A=5.1 (N7)
+B=5.1 (N12)
+C=5.1 (N13)
+
+ Current N=13
+It is not full cycle
+IniDaata cur N = 14 ciur ini data val = 70.57
+Value 70.57 N 14 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+A=26.81 (N12)
+B=26.81 (N12)
+C=26.81 (N14)
+
+ Current N=14
+Cycle  full detected abs(dBC)>=abs(dAB): -43.75999999999999>0.0 Ampl=0.0=0.0 med val = 26.81=26.81
+IniDaata cur N = 15 ciur ini data val = -5.47
+Value -5.47 N 15 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+A=26.81 (N12)
+B=26.81 (N14)
+C=26.81 (N15)
+
+ Current N=15
+Cycle  full detected abs(dBC)>=abs(dAB): 76.03999999999999>-43.75999999999999 Ampl=-43.75999999999999=43.75999999999999 med val = 48.69=48.69
+IniDaata cur N = 16 ciur ini data val = 5.45
+Value 5.45 N 16 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+A=26.81 (N12)
+B=26.81 (N15)
+C=26.81 (N16)
+
+ Current N=16
+It is not full cycle
+IniDaata cur N = 17 ciur ini data val = -50.32
+Value -50.32 N 17 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+A=-5.47 (N15)
+B=-5.47 (N15)
+C=-5.47 (N17)
+
+ Current N=17
+Cycle  full detected abs(dBC)>=abs(dAB): 44.85>0.0 Ampl=0.0=0.0 med val = -5.47=-5.47
+IniDaata cur N = 18 ciur ini data val = -6.95
+Value -6.95 N 18 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+A=-5.47 (N15)
+B=-5.47 (N17)
+C=-5.47 (N18)
+
+ Current N=18
+It is not full cycle
+IniDaata cur N = 19 ciur ini data val = -27.16
+Value -27.16 N 19 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+A=-50.32 (N17)
+B=-50.32 (N17)
+C=-50.32 (N19)
+
+ Current N=19
+Cycle  full detected abs(dBC)>=abs(dAB): -23.16>0.0 Ampl=0.0=0.0 med val = -50.32=-50.32
+IniDaata cur N = 20 ciur ini data val = 47.37
+Value 47.37 N 20 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+A=-50.32 (N17)
+B=-50.32 (N19)
+C=-50.32 (N20)
+
+ Current N=20
+Cycle  full detected abs(dBC)>=abs(dAB): -74.53>-23.16 Ampl=-23.16=23.16 med val = -38.74=-38.74
+IniDaata cur N = 21 ciur ini data val = -16.13
+Value -16.13 N 21 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+A=-50.32 (N17)
+B=-50.32 (N20)
+C=-50.32 (N21)
+
+ Current N=21
+It is not full cycle
+IniDaata cur N = 22 ciur ini data val = 6.32
+Value 6.32 N 22 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+6) -50.32 (N17)
+A=47.37 (N20)
+B=47.37 (N20)
+C=47.37 (N22)
+
+ Current N=22
+Cycle  full detected abs(dBC)>=abs(dAB): 41.05>0.0 Ampl=0.0=0.0 med val = 47.37=47.37
+IniDaata cur N = 23 ciur ini data val = -5.56
+Value -5.56 N 23 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+6) -50.32 (N17)
+A=47.37 (N20)
+B=47.37 (N22)
+C=47.37 (N23)
+
+ Current N=23
+It is not full cycle
+IniDaata cur N = 24 ciur ini data val = 27.88
+Value 27.88 N 24 is added from ini data to work stack
+Now stack is
+rest
+1) -7.46 (N1)
+2) 38.63 (N4)
+3) 5.1 (N7)
+4) 26.81 (N12)
+5) -5.47 (N15)
+6) -50.32 (N17)
+7) 47.37 (N20)
+A=6.32 (N22)
+B=6.32 (N22)
+C=6.32 (N24)
+>>> 

@@ -1,0 +1,300 @@
+reading data
+-3.04
+-7.46
+5.1
+-16.12
+38.63
+26.17
+38.63
+5.1
+15.56
+-37.82
+26.81
+-37.82
+26.81
+17.67
+70.57
+-5.47
+5.45
+-50.32
+-6.95
+-27.16
+47.37
+-16.13
+6.32
+-5.56
+27.88
+
+Initial stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 5.1(in ini data N 2)
+C= (in stack N 3)= -16.12(in ini data N 3)
+
+ Current N=3
+Cycle  full detected abs(dBC)>=abs(dAB): 21.22>-12.559999999999999 Ampl=-12.559999999999999=12.559999999999999 med val = -1.1800000000000002=-1.1800000000000002
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= -16.12(in ini data N 3)
+C= (in stack N 3)= 38.63(in ini data N 4)
+
+ Current N=4
+Cycle  full detected abs(dBC)>=abs(dAB): -54.75>8.66 Ampl=8.66=8.66 med val = -11.790000000000001=-11.790000000000001
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 38.63(in ini data N 4)
+C= (in stack N 3)= 26.17(in ini data N 5)
+
+ Current N=5
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 38.63(in ini data N 4)
+B= (in stack N 3)= 26.17(in ini data N 5)
+C= (in stack N 4)= 38.63(in ini data N 6)
+
+ Current N=6
+Cycle  full detected abs(dBC)>=abs(dAB): -12.46>12.46 Ampl=12.46=12.46 med val = 32.400000000000006=32.400000000000006
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 38.63(in ini data N 4)
+C= (in stack N 3)= 38.63(in ini data N 6)
+
+ Current N=6
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 38.63(in ini data N 4)
+B= (in stack N 3)= 38.63(in ini data N 6)
+C= (in stack N 4)= 5.1(in ini data N 7)
+
+ Current N=7
+Cycle  full detected abs(dBC)>=abs(dAB): 33.53>0.0 Ampl=0.0=0.0 med val = 38.63=38.63
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 38.63(in ini data N 4)
+C= (in stack N 3)= 5.1(in ini data N 7)
+
+ Current N=7
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 38.63(in ini data N 4)
+B= (in stack N 3)= 5.1(in ini data N 7)
+C= (in stack N 4)= 15.56(in ini data N 8)
+
+ Current N=8
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 38.63(in ini data N 4)
+A= (in stack N 3)= 5.1(in ini data N 7)
+B= (in stack N 4)= 15.56(in ini data N 8)
+C= (in stack N 5)= -37.82(in ini data N 9)
+
+ Current N=9
+Cycle  full detected abs(dBC)>=abs(dAB): 53.38>-10.46 Ampl=-10.46=10.46 med val = 10.33=10.33
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 38.63(in ini data N 4)
+B= (in stack N 3)= 5.1(in ini data N 7)
+C= (in stack N 4)= -37.82(in ini data N 9)
+
+ Current N=9
+Cycle  full detected abs(dBC)>=abs(dAB): 42.92>33.53 Ampl=33.53=33.53 med val = 21.865000000000002=21.865000000000002
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 38.63(in ini data N 4)
+C= (in stack N 3)= -37.82(in ini data N 9)
+
+ Current N=9
+Cycle  full detected abs(dBC)>=abs(dAB): 76.45>-46.09 Ampl=-46.09=46.09 med val = 15.585=15.585
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= -37.82(in ini data N 9)
+C= (in stack N 3)= 26.81(in ini data N 10)
+
+ Current N=10
+Cycle  full detected abs(dBC)>=abs(dAB): -64.63>30.36 Ampl=30.36=30.36 med val = -22.64=-22.64
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 26.81(in ini data N 10)
+C= (in stack N 3)= -37.82(in ini data N 11)
+
+ Current N=11
+Cycle  full detected abs(dBC)>=abs(dAB): 64.63>-34.269999999999996 Ampl=-34.269999999999996=34.269999999999996 med val = 9.674999999999999=9.674999999999999
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= -37.82(in ini data N 11)
+C= (in stack N 3)= 26.81(in ini data N 12)
+
+ Current N=12
+Cycle  full detected abs(dBC)>=abs(dAB): -64.63>30.36 Ampl=30.36=30.36 med val = -22.64=-22.64
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 26.81(in ini data N 12)
+C= (in stack N 3)= 17.67(in ini data N 13)
+
+ Current N=13
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 26.81(in ini data N 12)
+B= (in stack N 3)= 17.67(in ini data N 13)
+C= (in stack N 4)= 70.57(in ini data N 14)
+
+ Current N=14
+Cycle  full detected abs(dBC)>=abs(dAB): -52.89999999999999>9.139999999999997 Ampl=9.139999999999997=9.139999999999997 med val = 22.240000000000002=22.240000000000002
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 26.81(in ini data N 12)
+C= (in stack N 3)= 70.57(in ini data N 14)
+
+ Current N=14
+Cycle  full detected abs(dBC)>=abs(dAB): -43.75999999999999>-34.269999999999996 Ampl=-34.269999999999996=34.269999999999996 med val = 9.674999999999999=9.674999999999999
+Now stack is
+A= (in stack N 1)= -7.46(in ini data N 1)
+B= (in stack N 2)= 70.57(in ini data N 14)
+C= (in stack N 3)= -5.47(in ini data N 15)
+
+ Current N=15
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= 5.45(in ini data N 16)
+
+ Current N=16
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= 5.45(in ini data N 16)
+C= (in stack N 5)= -50.32(in ini data N 17)
+
+ Current N=17
+Cycle  full detected abs(dBC)>=abs(dAB): 55.77>-10.92 Ampl=-10.92=10.92 med val = -0.009999999999999787=-0.009999999999999787
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= -50.32(in ini data N 17)
+
+ Current N=17
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= -50.32(in ini data N 17)
+C= (in stack N 5)= -6.95(in ini data N 18)
+
+ Current N=18
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+val (in stack N 3) = -5.47(in ini data N 15)
+A= (in stack N 4)= -50.32(in ini data N 17)
+B= (in stack N 5)= -6.95(in ini data N 18)
+C= (in stack N 6)= -27.16(in ini data N 19)
+
+ Current N=19
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+val (in stack N 3) = -5.47(in ini data N 15)
+val (in stack N 4) = -50.32(in ini data N 17)
+A= (in stack N 5)= -6.95(in ini data N 18)
+B= (in stack N 6)= -27.16(in ini data N 19)
+C= (in stack N 7)= 47.37(in ini data N 20)
+
+ Current N=20
+Cycle  full detected abs(dBC)>=abs(dAB): -74.53>20.21 Ampl=20.21=20.21 med val = -17.055=-17.055
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+val (in stack N 3) = -5.47(in ini data N 15)
+A= (in stack N 4)= -50.32(in ini data N 17)
+B= (in stack N 5)= -6.95(in ini data N 18)
+C= (in stack N 6)= 47.37(in ini data N 20)
+
+ Current N=20
+Cycle  full detected abs(dBC)>=abs(dAB): -54.32>-43.37 Ampl=-43.37=43.37 med val = -28.635=-28.635
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= -50.32(in ini data N 17)
+C= (in stack N 5)= 47.37(in ini data N 20)
+
+ Current N=20
+Cycle  full detected abs(dBC)>=abs(dAB): -97.69>44.85 Ampl=44.85=44.85 med val = -27.895=-27.895
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= 47.37(in ini data N 20)
+
+ Current N=20
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= 47.37(in ini data N 20)
+C= (in stack N 5)= -16.13(in ini data N 21)
+
+ Current N=21
+Cycle  full detected abs(dBC)>=abs(dAB): 63.5>-52.839999999999996 Ampl=-52.839999999999996=52.839999999999996 med val = 20.95=20.95
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= -16.13(in ini data N 21)
+
+ Current N=21
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= -16.13(in ini data N 21)
+C= (in stack N 5)= 6.32(in ini data N 22)
+
+ Current N=22
+Cycle  full detected abs(dBC)>=abs(dAB): -22.45>10.66 Ampl=10.66=10.66 med val = -10.799999999999999=-10.799999999999999
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= 6.32(in ini data N 22)
+
+ Current N=22
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= 6.32(in ini data N 22)
+C= (in stack N 5)= -5.56(in ini data N 23)
+
+ Current N=23
+Cycle  full detected abs(dBC)>=abs(dAB): 11.879999999999999>-11.79 Ampl=-11.79=11.79 med val = 0.42500000000000027=0.42500000000000027
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+A= (in stack N 2)= 70.57(in ini data N 14)
+B= (in stack N 3)= -5.47(in ini data N 15)
+C= (in stack N 4)= -5.56(in ini data N 23)
+
+ Current N=23
+It is not full cycle
+Now stack is
+val (in stack N 1) = -7.46(in ini data N 1)
+val (in stack N 2) = 70.57(in ini data N 14)
+A= (in stack N 3)= -5.47(in ini data N 15)
+B= (in stack N 4)= -5.56(in ini data N 23)
+C= (in stack N 5)= 27.88(in ini data N 24)
+>>> 
